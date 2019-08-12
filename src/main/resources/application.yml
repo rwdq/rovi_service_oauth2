@@ -25,7 +25,7 @@ logging:
     root: info
     org:
       springframework: info
-  path: D://log/yyc_service_oauth2
-  #path: \home\resin\webser\yyc_service_oauth2\logs
+  path: D://log/rovi_service_oauth2
+  #path: \home\resin\webser\rovi_service_oauth2\logs
 server:
   port: 6915

@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.megalith</groupId>
-    <artifactId>yyc_service_oauth2</artifactId>
+    <artifactId>rovi_service_oauth2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>yyc_service_oauth2</name>
+    <name>rovi_service_oauth2</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -203,7 +203,7 @@
                 </configuration>
             </plugin>-->
         </plugins>
-        <finalName>yyc_service_oauth2</finalName>
+        <finalName>rovi_service_oauth2</finalName>
     </build>
 
 
